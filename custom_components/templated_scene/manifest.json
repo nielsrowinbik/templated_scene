@@ -1,0 +1,8 @@
+{
+  "domain": "templated_scene",
+  "name": "Templated Scene",
+  "documentation": "https://github.com/nielsrowinbik/templated_scene",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@nielsrowinbik"]
+}
