@@ -8,7 +8,7 @@ A Home Assistant custom component to template scenes.
 
 ### Manually
 
-Copy the contents of `templated_scene` into your Home Assistant's `custom-components` folder.
+Copy the contents of `templated_scene` into your Home Assistant's `custom_components` folder.
 
 ### Automatically with HACS
 
